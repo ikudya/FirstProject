@@ -1,0 +1,21 @@
+.nav{
+    grid-area: nav;
+    background-color: burlywood;
+}
+.header_nav_link{
+    color: White;
+}
+.header_nav_link:hover{
+    color: #ffffff;
+    background-color: #8d7531;
+}
+.header_nav_link.activeLink{
+    color: #a9a9a9;
+    background-color: #e3c75b;
+}
+a {
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
